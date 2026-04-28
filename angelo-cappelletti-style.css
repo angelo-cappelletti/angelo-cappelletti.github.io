@@ -138,7 +138,7 @@ h6{font-family: 'Architects Daughter', cursive; color: #C70039; font-size: 18px;
     .projects_content{
       border: 1px solid gray;
       width: 90%;
-      height: 600px;
+      height: auto;
       box-sizing: border-box;
       padding: 10px;
       margin: 10px 0px 10px 10px;
